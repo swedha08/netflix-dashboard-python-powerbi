@@ -34,6 +34,7 @@ This project analyzes 8,800+ Netflix titles using Power BI and Python to discove
 | `netflix_titles.csv` | Raw dataset |
 | `Netflix_overview dashboard.pbix` | Power BI report |
 | `Netflix_overview.html` | Jupyter Notebook output |
+| `Netflix_overview.ipynb` | Jupyter Notebook for Netflix data analysis using Python |
 | `Netflix.PNG` | Dashboard image |
 
 ---
